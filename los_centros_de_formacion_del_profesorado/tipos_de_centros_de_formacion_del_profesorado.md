@@ -18,7 +18,7 @@ El Plan Marco Aragonés de Formación del Profesorado, desarrollando el Decreto 
 
 *   Centro de Innovación para la Formación Profesional de Aragón ([CIFPA](https://www.google.com/url?q=http://cifpa.aragon.es/joomla1/&sa=D&ust=1513765383295000&usg=AFQjCNGx0Ppp-AUECLtmlfmW_3V-8f69NA)). Entre otros cometidos se vincula a la red de formación del profesorado para atender a los Centros Integrados de Formación Profesional y al profesorado de Formación Profesional de todo Aragón.
 
-https://www.youtube.com/watch?v=fxciDt-jp1Q
+{% youtube %}https://www.youtube.com/watch?v=fxciDt-jp1Q{% endyoutube %}
 
 *   Centro Aragonés de Lenguas Extranjeras para la Educación.([CARLEE](https://www.google.com/url?q=https://centrolenguasaragon.wordpress.com/&sa=D&ust=1513765383296000&usg=AFQjCNGO00qC9THaeu0OU_WIrW7McDfaWA)). Su cometido es la formación en competencia y metodologías que capaciten al profesorado para poder impartir programas bilingües en francés e inglés. También se ocupan de la formación del profesorado de inglés en toda la enseñanza no universitaria de Aragón.
 
