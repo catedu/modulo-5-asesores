@@ -1,0 +1,3 @@
+# Introdución. {#introduci-n}
+
+Este módulo forma parte del itinerario formativo específico para asesores de formación. En él se describen las características de los centros de formación del profesorado y las funciones de los asesores de formación. Su objetivo es propiciar que los futuros asesores de formación tengan un mejor conocimiento de la red a la que podrían incorporarse y de los retos y tareas que podrían afrontar.
