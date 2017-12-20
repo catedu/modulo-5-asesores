@@ -98,7 +98,7 @@ A todo esto que aparece en la  [ORDEN de 18 de julio de 2014](https://www.google
 
 Artículo 10\. Equipo Pedagógico.
 
-1. Además de las establecidas, en el Decreto 105/2013, de 11 de junio, será función del Equipo Pedagógico aprobar la cuenta de gestión del CIFE.
+1\. Además de las establecidas, en el Decreto 105/2013, de 11 de junio, será función del Equipo Pedagógico aprobar la cuenta de gestión del CIFE.
 
 2\. Al menos una de las reuniones del Equipo Pedagógico durante un curso escolar tendrá como objeto la aprobación de las actividades de formación.
 

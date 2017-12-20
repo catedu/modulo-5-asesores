@@ -1,4 +1,4 @@
-## Origen y evolución de los centros del profesorado. {#origen-y-evoluci-n-de-los-centros-del-profesorado}
+
 
 Principios de los 80
 
@@ -8,13 +8,13 @@ Paralelamente se constituyen los Centros de Recursos y Servicios de Apoyo Escola
 
 En esta viñeta de la época se puede ver el cambio de “filosofía” que se pretendía de CAIRE a CEP:
 
-![](images/image2.png)
+![](/images/image2.png)
 
 En una primera etapa 1984-1989 se crearon los CEPs que se muestran en el mapa, dentro de las competencias del MEC:
 
-![](images/image4.png)
+![](/images/image4.png)
 
-![](images/image3.png)
+![](/images/image3.png)
 
 Pero para llegar a toda la extensión se crearon las modalidades experimentales de “la extensión” aquí vemos la placa en el caso de Calamocha:
 
@@ -27,7 +27,7 @@ En una segunda etapa 1989-1993 el MEC presentó varios documentos que destacamos
 
 Plan anual de la Subdirección General de la formación del Profesorado 1990Plan de Investigación Educativa y Formación del Profesorado
 
-![](images/image5.png)
+![](/images/image5.png)
 
 El RD 1992 regulaba el funcionamiento de los CEPs, el reconocimiento del Equipo Pedagógico, las funciones y competencias de los consejos, procedimientos de elección, acceso a la dirección, creación del vicedirector y secretario y la duración del mandato de cada uno de ellos.
 
@@ -40,7 +40,7 @@ Los CEPs estaban configurados en cuatro módulos:
 
 En esta etapa destaca el elevado número de actividades, calidad y afianzamiento de las línea de Formación en Centros.
 
-![](images/image7.png)
+![](/images/image7.png)
 
 CEP Teruel.
 
