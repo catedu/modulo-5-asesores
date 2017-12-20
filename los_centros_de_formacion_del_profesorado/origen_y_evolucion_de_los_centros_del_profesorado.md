@@ -1,24 +1,26 @@
+## Origen y evolución de los centros del profesorado.
 
+**Principios de los 80
+**
+Ya  existían los **CAIRE** (Círculos de Estudio e Investigación para la Renovación Pedagógica), estos evolucionaron a los **CEP en el RD 2112/1984** con el criterio de acercar las instituciones, descentralizar el sistema y fomentar el protagonismo del profesorado en su propia formación, a imitación de los Teachers Centers (UK) y centros pedagógicos (Noruega).
 
-Principios de los 80
-
-Ya  existían los CAIRE (Círculos de Estudio e Investigación para la Renovación Pedagógica), estos evolucionaron a los CEP en el RD 2112/1984 con el criterio de acercar las instituciones, descentralizar el sistema y fomentar el protagonismo del profesorado en su propia formación, a imitación de los Teachers Centers (UK) y centros pedagógicos (Noruega).
-
-Paralelamente se constituyen los Centros de Recursos y Servicios de Apoyo Escolar en el RD 1174/1983 debido a la escasez de medios en el mundo rural por la concentración de la escolarización en la LGE de 1970\.
+Paralelamente se constituyen los **Centros de Recursos y Servicios de Apoyo Escolar **en el RD 1174/1983 debido a la escasez de medios **en el mundo rural** por la concentración de la escolarización en la LGE de 1970\.
 
 En esta viñeta de la época se puede ver el cambio de “filosofía” que se pretendía de CAIRE a CEP:
 
 ![](/images/image2.png)
 
-En una primera etapa 1984-1989 se crearon los CEPs que se muestran en el mapa, dentro de las competencias del MEC:
+En una **primera etapa 1984-1989 **se crearon los CEPs que se muestran en el mapa, dentro de las competencias del MEC:
 
 ![](/images/image4.png)
 
+
+
+Pero para llegar a toda la extensión se crearon las modalidades experimentales de _“la extensión” _ aquí vemos la placa en el caso de Calamocha:
+
 ![](/images/image3.png)
 
-Pero para llegar a toda la extensión se crearon las modalidades experimentales de “la extensión” aquí vemos la placa en el caso de Calamocha:
-
-En una segunda etapa 1989-1993 el MEC presentó varios documentos que destacamos aquí unas líneas porque son la filosofía de los Centros de Profesorado:
+En una **segunda etapa 1989-1993** el MEC presentó varios documentos que destacamos aquí unas líneas porque son la filosofía de los Centros de Profesorado:
 
 *   Formación basada en la práctica profesional: La formación requiere partir de una reflexión del profesor sobre su propia práctica que le permita repensar su teoría implícita de las enseñanza, sus esquemas, sus maneras de proceder y sus actitudes.
 *   El Centro docente como eje de la formación permanente. La adopción de un diseño curricular abierto implica la elaboración de Proyectos Educativos y Proyectos Curriculares de Centro. Esto exige equipos de Profesores que rompan con el individualismo, que intercambien experiencias y en suma, que conciban la formación permanente como una parte de su actividad profesional ligada a la labor de innovación educativa en el marco de sus propios centros.

@@ -1,8 +1,7 @@
-# Módulo 5, Asesores. {#m-dulo-5-asesores}
+# Módulo 5 para asesores: Los Centros del profesorado.
 
-Módulo 5: Los centros de formación del profesorado.
 
-Tipología, funcionamiento, origen y evolución. Funciones del asesor de formación del profesorado no universitario. Coordinación con los sujetos e instituciones que intervienen en el centro educativo.
+## Tipología, funcionamiento, origen y evolución. Funciones del asesor de formación del profesorado no universitario. Coordinación con los sujetos e instituciones que intervienen en el centro educativo.
 
 [Introdución.](export/introducion.md)
 
