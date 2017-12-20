@@ -18,24 +18,24 @@ El asesor también participará en las reuniones del “Equipo Pedagógico” de
 
 Hasta el año pasado, los perfiles de las asesorías eran Competencia  en Innovación, mejora educativa y organización de centros, Competencia digital, Competencia lingüística y comunicativa, Competencia personal y gestión de la convivencia. Ahora han desaparecido estos perfiles salvo el de Competencia digital, en busca de un perfil de asesor más transversal y global.
 
-Plan de formación de centro y actividades.
-
-Uno de los momentos más importantes e intensos del trabajo de un asesor de formación sucede al principio del curso escolar, puesto que debe aconsejar a los centros sobre la creación del Plan de formación y el diseño de las actividades asociadas a ese plan. Es muy importante dedicar tiempo y atención a los COFOs en este periodo para que el trabajo del año sea lo más fructífero posible, puesto que es el momento en el que se plantea lo que se va a hacer.
+**Plan de formación de centro y actividades.
+**
+Uno de los momentos más importantes e intensos del trabajo de un asesor de formación sucede al principio del curso escolar, puesto **que debe aconsejar a los centros sobre la creación del Plan de formación y el diseño de las actividades asociadas a ese plan**. Es muy importante dedicar tiempo y atención a los COFOs en este periodo para que el trabajo del año sea lo más fructífero posible, puesto que es el momento en el que se plantea lo que se va a hacer.
 
 El asesor de un CIFE tiene asignadas por su director diversas actividades formativas que tiene que gestionar. Estas actividades pueden ser de tres tipos.
 
-En primer lugar, las actividades pueden surgir de los centros, en concreto de sus planes de formación. Los Proyectos de formación en centro (PFC), los seminarios y los grupos de trabajo son generados en dicho plan de formación y aprobados por el CIFE. Posteriormente, el asesor gestiona la actividad que tiene asignado un docente, no necesariamente el COFO, como coordinador de actividad. En estas actividades el asesor debe realizar un seguimiento de la asistencia indicada por el coordinador, de las actas y puede, si lo considera necesario por tener un control o si lo considera interesante, asistir a algunas o a todas las sesiones. Especialmente interesante es asistir a las ponencias asociadas a estas actividades.
+En primer lugar, **las actividades pueden surgir de los centros**, en concreto de sus planes de formación. Los Proyectos de formación en centro (PFC), los seminarios y los grupos de trabajo son generados en dicho plan de formación y aprobados por el CIFE. Posteriormente, el asesor gestiona la actividad que tiene asignado un docente, no necesariamente el COFO, como coordinador de actividad. En estas actividades el asesor debe realizar un seguimiento de la asistencia indicada por el coordinador, de las actas y puede, si lo considera necesario por tener un control o si lo considera interesante, asistir a algunas o a todas las sesiones. Especialmente interesante es asistir a las ponencias asociadas a estas actividades.
 
-En segundo lugar, las actividades pueden proceder de la administración, del servicio de formación, éstas reciben el nombre de actividades institucionales. En este caso el asesor puede ser también coordinador de actividad y, por tanto, añadir a las tareas antes mencionadas el control de la asistencia con hojas de firmas y la redacción de actas e informes.
+En segundo lugar, las actividades **pueden proceder de la administración**, del servicio de formación, éstas reciben el nombre de **actividades institucionales**. En este caso el asesor puede ser también coordinador de actividad y, por tanto, añadir a las tareas antes mencionadas el control de la asistencia con hojas de firmas y la redacción de actas e informes.
 
-Por último, el asesor puede proponer, si lo considera necesario o interesante, nuevas actividades de su cosecha si el CIFE está de acuerdo. Estas actividades de asesor deben ser también coordinadas por él.
+Por último, el asesor puede proponer, si lo considera necesario o interesante, nuevas actividades de su cosecha si el CIFE está de acuerdo. Estas actividades **de asesor** deben ser también coordinadas por él.
 
-La posición intermedia del asesor.
-
+**La posición intermedia del asesor.
+**
 Como asesor de referencia de varios centros educativos, cada uno con diferentes características, puede, con la experiencia, adquirir perspectiva sobre el estado de una parte del sistema educativo. Es esa perspectiva, unida a los conocimientos sobre su línea de trabajo y a su formación, la que permite desarrollar la labor de asesoría. Esa asesoría debe ayudar a los centros a definir o reorientar sus proyectos y las actividades formativas asociadas a éstos.
 
-Es por tanto muy interesante la presencia frecuente del asesor en sus centros de referencia para adquirir el conocimiento sobre sus necesidades y peculiaridades y para ayudarles a encontrar nuevas herramientas o perspectivas.
+Es por tanto muy interesante la **presencia frecuente del asesor en sus centros de referencia** para adquirir el conocimiento sobre sus necesidades y peculiaridades y para ayudarles a encontrar nuevas herramientas o perspectivas.
 
-Estas visitas a los centros hacen que el asesor disponga de una posición muy interesante para recabar y transmitir información desde los centros hacia la administración mejorando la retroalimentación que esta puede recibir de sus políticas educativos, lo que mejora su eficiencia.
+Estas **visitas a los centros** hacen que el asesor disponga de una posición muy interesante para recabar y transmitir información desde los centros hacia la administración mejorando la retroalimentación que esta puede recibir de sus políticas educativos, lo que mejora su eficiencia.
 
-Por último, esa posición intermedia entre la administración y los centros hace que pueda transmitir y explicar información institucional a estos y participe en el despliegue de políticas educativas, ya sea a través de programas o de formación institucional asociada a ellos.
+Por último, esa posición intermedia entre la administración y los centros hace que pueda **transmitir y explicar información institucional** a estos y participe en el despliegue de políticas educativas, ya sea a través de programas o de formación institucional asociada a ellos.
