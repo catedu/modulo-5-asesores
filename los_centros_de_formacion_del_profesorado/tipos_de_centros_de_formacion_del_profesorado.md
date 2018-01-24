@@ -22,6 +22,9 @@ El Plan Marco Aragonés de Formación del Profesorado, desarrollando el Decreto 
 
 *   Centro Aragonés de Lenguas Extranjeras para la Educación.([CARLEE](https://www.google.com/url?q=https://centrolenguasaragon.wordpress.com/&sa=D&ust=1513765383296000&usg=AFQjCNGO00qC9THaeu0OU_WIrW7McDfaWA)). Su cometido es la formación en competencia y metodologías que capaciten al profesorado para poder impartir programas bilingües en francés e inglés. También se ocupan de la formación del profesorado de inglés en toda la enseñanza no universitaria de Aragón.
 
-![](/images/image1.png)
+{% youtube %}https://www.youtube.com/watch?v=pyTrjLepb6A{% endyoutube %}
+
+    Video de presentación del CARLEE
+
 
 *   Centro Aragonés de Formación para el Profesorado de Enseñanzas Artísticas (CAREA). Es el más incipiente de los proyectos y se ocupa de atender las necesidades formativas del profesorado de enseñanzas artísticas.
