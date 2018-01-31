@@ -1,6 +1,6 @@
-## Origen y evolución de los centros del profesorado.
+# Origen y evolución de los centros del profesorado.
 
-### Principios de los 80
+## PRIMERA ETAPA Principios de los 80
 
 Ya  existían los **CAIRE** (Círculos de Estudio e Investigación para la Renovación Pedagógica), estos evolucionaron a los **CEP en el RD 2112/1984** con el criterio de acercar las instituciones, descentralizar el sistema y fomentar el protagonismo del profesorado en su propia formación, a imitación de los Teachers Centers (UK) y centros pedagógicos (Noruega).
 
@@ -20,14 +20,16 @@ Pero para llegar a toda la extensión se crearon las modalidades experimentales 
 
 ![](/images/image3.png)
 
-En una **segunda etapa 1989-1993** el MEC presentó varios documentos que destacamos aquí unas líneas porque son la filosofía de los Centros de Profesorado:
+## SEGUNDA ETAPA 1989-1993
+
+El MEC presentó varios documentos que destacamos aquí unas líneas porque son la filosofía de los Centros de Profesorado:
 
 *   **Formación basada en la práctica profesional**: La formación requiere partir de una **reflexión** del profesor sobre su propia práctica que le permita repensar su teoría implícita de las enseñanza, sus esquemas, sus maneras de proceder y sus actitudes.
 *  ** El Centro docente como eje de la formación permanente.** La adopción de un diseño curricular abierto implica la elaboración de Proyectos Educativos y Proyectos Curriculares de Centro. Esto exige equipos de Profesores que rompan con el individualismo, que **intercambien experiencias** y en suma, que conciban la **formación permanente** como una parte de su actividad profesional ligada a la labor de **innovación** educativa en el marco de sus **propios centros.**
 *  ** Formación a través de estrategias diversificadas**. Para ello es necesario contar con las Universidades, empresas e instituciones. para desplegar un amplio abanico de propuestas y modalidades formativas.
 *   **Formación descentralizada**. Consiste en una estrategia de consolidación de niveles escalonados de decisión, generando procesos adaptados a cada zona mediante una fuerte participación en cada CEP de las estructuras provinciales y de los propios usuarios de la formación.
 
-### Plan anual de la Subdirección General de la formación del Profesorado 1990Plan de Investigación Educativa y Formación del Profesorado
+**Plan anual de la Subdirección General de la formación del Profesorado 1990 ** Plan de Investigación Educativa y Formación del Profesorado
 
 
 El RD 1992 regulaba el funcionamiento de los CEPs, el reconocimiento del Equipo Pedagógico, las funciones y competencias de los consejos, procedimientos de elección, acceso a la dirección, creación del vicedirector y secretario y la duración del mandato de cada uno de ellos.
@@ -46,7 +48,7 @@ En esta etapa destaca el elevado número de actividades, calidad y afianzamiento
 
 ![](/images/image7.png)
 
-CEP Teruel.
+_Foto CEP Teruel._
 
 En esta etapa también se regula los Centros de Recursos (Resolución 6/6/1990 DGFPyPE) donde se tipifican en:
 
@@ -58,7 +60,7 @@ Los perfiles de los profesores asignados son maestros especialistas en idioma in
 
 La existencia de** estas dos redes** no se sustentaba con las nuevas reformas LOGSE (1989-1994) lo que llevaría a una nueva etapa:
 
-**Tercera etapa 1994 - 2012.** 
+## TERCERA ETAPA 1994 - 2012.
 
 Fue en esta época cuando se reorganizaron y unificaron las dos redes,creando los **Centros de Profesores y Recursos**, ahora la tipología cambia a:
 
@@ -88,7 +90,8 @@ También se aprovechó para crear muchas extensiones en CPRs independientes. En 
 
 En esta etapa se crea la formación online en **Aularagon**, gestionada al principio por los Asesores TIC de cada CPR.
 
-Cuarta etapa 2013-2017 Se cambia de esquema de los CPRs a CIFEs ([BOA 20/11/2013](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D766307563535&sa=D&ust=1513765383318000&usg=AFQjCNFUTFfeL3impnfuvTjXNOrMGwnmSQ))  creando los siguientes CIFEs territoriales con sus correspondientes UFIs y se añaden dos específicos a la red:
+## CUARTA ETAPA 2013-2016
+Se cambia de esquema de los CPRs a CIFEs ([BOA 20/11/2013](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D766307563535&sa=D&ust=1513765383318000&usg=AFQjCNFUTFfeL3impnfuvTjXNOrMGwnmSQ))  creando los siguientes CIFEs territoriales con sus correspondientes UFIs y se añaden dos específicos a la red:
 
 *   CIFE ANA ABARCA DE BOLEA - HUESCA
 *   CIFE ÁNGEL SANZ BRIZ - TERUEL
@@ -97,12 +100,16 @@ Cuarta etapa 2013-2017 Se cambia de esquema de los CPRs a CIFEs ([BOA 20/11/2013
 *   CATEDU
 *   CAREI
 
-Y en el 2016 se crean otros 3 cifes y se incorporan otros específicos a la red de formación:
+## ETAPA ACTUAL
+
+En el 2016 se crean otros 3 cifes y se incorporan otros específicos a la red de formación:
 
 *   CIFE SABIÑANIGO
 *   CIFE EJEA DE LOS CABALLEROS
 *   CIFE ALCORISA
 *   CIFPA
 *   CARLEE
+
+En la etapa acutal hay un proceso de renovación y de creación de nuevos centros, esto lo has visto en [Tipos de centros de formación del profesorado.](/los_centros_de_formacion_del_profesorado/tipos_de_centros_de_formacion_del_profesorado.md)
 
 Recomendaciones: [Monográfico 35 A 3 bandas sobre formación del profesorado.](https://www.google.com/url?q=http://atresbandas.ftp.catedu.es/monograficos/Numero_M35.pdf&sa=D&ust=1513765383319000&usg=AFQjCNFUNC-NsYVXoFW3U07aylJBR0oW4A)
