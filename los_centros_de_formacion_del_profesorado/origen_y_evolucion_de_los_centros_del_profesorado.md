@@ -1,6 +1,6 @@
 # Origen y evolución de los centros del profesorado.
 
-## PRIMERA ETAPA Principios de los 80
+## ETAPA INICIAL Principios de los 80
 
 Ya  existían los **CAIRE** (Círculos de Estudio e Investigación para la Renovación Pedagógica), estos evolucionaron a los **CEP en el RD 2112/1984** con el criterio de acercar las instituciones, descentralizar el sistema y fomentar el protagonismo del profesorado en su propia formación, a imitación de los Teachers Centers (UK) y centros pedagógicos (Noruega).
 
@@ -10,7 +10,8 @@ En esta viñeta de la época se puede ver el cambio de “filosofía” que se p
 
 ![](/images/image2.png)
 
-En una **primera etapa 1984-1989 **se crearon los CEPs que se muestran en el mapa, dentro de las competencias del MEC:
+## PRIMERA ETAPA 1984-1989 
+Se crearon los CEPs que se muestran en el mapa, dentro de las competencias del MEC:
 
 ![](/images/image4.png)
 
