@@ -111,6 +111,6 @@ En el 2016 se crean otros 3 cifes y se incorporan otros específicos a la red de
 *   CIFPA
 *   CARLEE
 
-En la etapa acutal hay un proceso de renovación y de creación de nuevos centros, esto lo has visto en [Tipos de centros de formación del profesorado.](/los_centros_de_formacion_del_profesorado/tipos_de_centros_de_formacion_del_profesorado.md)
+En la etapa actual hay un proceso de renovación y de creación de nuevos centros, esto lo has visto en [Tipos de centros de formación del profesorado.](/los_centros_de_formacion_del_profesorado/tipos_de_centros_de_formacion_del_profesorado.md)
 
 Recomendaciones: [Monográfico 35 A 3 bandas sobre formación del profesorado.](https://www.google.com/url?q=http://atresbandas.ftp.catedu.es/monograficos/Numero_M35.pdf&sa=D&ust=1513765383319000&usg=AFQjCNFUNC-NsYVXoFW3U07aylJBR0oW4A)
