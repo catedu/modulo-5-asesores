@@ -96,7 +96,7 @@ f) **Cualquiera otra** función que le sea atribuida por la normativa vigente y 
 
 
 
-**A todo esto que aparece en la  [ORDEN de 18 de julio de 2014](https://www.google.com/url?q=http://www.educaragon.org/Files/Files/UserFiles/File/Formacion%2520profesorado/publicar_Orden_Funcionamiento_CIFES.pdf&sa=D&ust=1513765383306000&usg=AFQjCNFiSv2kVFDgWbIF87KOha9Nwcak_Q), hay que añadirle lo que aparece en  [ORDEN de 18 de julio de 2014](https://www.google.com/url?q=http://www.educaragon.org/Files/Files/UserFiles/File/Formacion%2520profesorado/publicar_Orden_Funcionamiento_CIFES.pdf&sa=D&ust=1513765383306000&usg=AFQjCNFiSv2kVFDgWbIF87KOha9Nwcak_Q)
+**A todo esto que aparece en el [Decreto 105/2013](https://www.google.com/url?q=http://www.educaragon.org/Files/Files/UserFiles/File/DECRETO%2520Form%2520Prof_BOA%252025-6-2013.pdf&sa=D&ust=1513765383297000&usg=AFQjCNHweYUfor26k-VXA1K2SdMnZFlGWQ), hay que añadirle lo que aparece en  [ORDEN de 18 de julio de 2014](https://www.google.com/url?q=http://www.educaragon.org/Files/Files/UserFiles/File/Formacion%2520profesorado/publicar_Orden_Funcionamiento_CIFES.pdf&sa=D&ust=1513765383306000&usg=AFQjCNFiSv2kVFDgWbIF87KOha9Nwcak_Q)
 **
 **Artículo 10\. Equipo Pedagógico.
 **
