@@ -28,6 +28,7 @@ e)** Desarrollar las actividades que le sean encomendadas** en relación al Plan
 
 **f) Apoyar y promover tanto el análisis, elaboración y utilización reflexiva y contextualizada de materiales y de recursos didácticos, como su difusión.
 **
+
 g) **Impartir docencia en los cursos y otras modalidades formativas** que corresponda y realizar la función de tutor en las actividades a distancia que le sean asignadas.
 
 h) **Colaborar con el resto de asesores de formación para mejorar la formación propia** y participar en todos aquellos planes que a este respecto establezca el Departamento competente en materia de educación, así como favorecer el desarrollo del Plan Anual de Formación.
