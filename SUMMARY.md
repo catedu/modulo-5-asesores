@@ -9,4 +9,5 @@
 * [Los asesores de formación.](los_asesores_de_formacion/README.md)
   * [Funciones del asesor de formación.](los_asesores_de_formacion/funciones_del_asesor_de_formacion.md)
 * [Coordinación con los sujetos e instituciones que intervienen en el centro educativo.](coordinacion_con_los_sujetos_e_instituciones_que_i.md)
+* [Créditos](creditos.md)
 
