@@ -1,143 +1,146 @@
-## Funcionamiento de los centros del profesorado {#funcionamiento-de-los-centros-del-profesorado}
+# Funcionamiento de los centros del profesorado {#funcionamiento-de-los-centros-del-profesorado}
 
-El funcionamiento de los centros de formación del profesorado está regulado por el [Decreto 105/2013](https://www.google.com/url?q=http://www.educaragon.org/Files/Files/UserFiles/File/DECRETO%2520Form%2520Prof_BOA%252025-6-2013.pdf&sa=D&ust=1513765383297000&usg=AFQjCNHweYUfor26k-VXA1K2SdMnZFlGWQ) del Gobierno de Aragón.
+El funcionamiento de los centros de formación del profesorado está regulado por la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](https://bit.ly/2TZii4q)
 
-Los artículos que describen el funcionamiento de los CIFEs son:
+Los artículos que describen el funcionamiento de los Centros del Profesorado son:
 
-**Artículo 9 Centros de Innovación y Formación Educativa.**
+### Artículo 2. Concepto de Centros de Profesorado territoriales.
 
-1\. Los Centros de Innovación y Formación Educativa, en adelante CIFE, constituyen el **elemento esencial de dinamización de la formación permanente, así como de la innovación e investigación educativas**, y dirigirán su actuación a promover el desarrollo profesional del profesorado en un marco de reflexión sobre la propia práctica.
+1. Los Centros de Profesorado territoriales son centros públicos dependientes del Departamento competente en materia de educación no universitaria encargados de la dinamización, planificación, innovación e investigación educativa, así como de la promoción del desarrollo de la formación del profesorado en todo el territorio aragonés.
 
-2\. Tienen la responsabilidad de **adecuar la formación permanente del profesorado** en los distintos ámbitos territoriales, localidades y centros educativos de Aragón, de acuerdo con las líneas y objetivos señalados en el Plan Anual de Formación del Profesorado.
+2. Los Centros de Profesorado territoriales son el referente más cercano a los centros
+educativos y su profesorado en materia de formación, tanto en la detección de necesidades como en la gestión y realización de actividades formativas, desempeñando funciones de asesoramiento en el desarrollo profesional y curricular, en la implantación de programas educativos, en la promoción de la innovación, investigación e intercambio de experiencias y en la apertura al entorno, comunicación y relaciones con la comunidad educativa.
 
-3\. Los Centros de Innovación y Formación Educativa promoverán preferentemente una **formación entre iguales**, gestionada desde el propio profesorado en los centros educativos, y que potencie y revalorice la profesión de la enseñanza. Los Centros de Innovación y Formación Educativa podrán contar con Unidades de Formación e Innovación distribuidas en centros públicos de su territorio de referencia.
+3. Los Centros de Profesorado territoriales podrán tener adscritos uno o varios Equipos
+Territoriales de Formación del Profesorado, con la fnalidad de contribuir a la vertebración del territorio aragonés.
 
-**Artículo 12 Funciones de los Centros de Innovación y Formación Educativa
-**
-Los Centros de Innovación y Formación Educativa tendrán encomendadas las siguientes **funciones:**
+## Artículo 3. Competencias de los Centros de Profesorado territoriales.
+Los Centros de Profesorado territoriales tendrán las siguientes competencias:
 
-a) **Detectar las necesidades formativas** del profesorado de acuerdo con las prioridades y demandas del sistema educativo, los proyectos y planes de carácter educativo y formativo de los centros de su ámbito, los tipos de jornada de los distintos regímenes, niveles y etapas del sistema educativo, y los itinerarios formativos del propio profesorado.
+a) Desarrollar la formación institucional promovida por la Administración Educativa.
 
-b) **Colaborar en la planificación de la formación permanente**, cooperando en la elaboración del Plan Anual de Formación del Profesorado y promoviendo la participación de los docentes.
+b) Implementar el Plan Anual de Acciones Formativas en su zona de actuación, a través de sus Planes de Actuación.
 
-c) Elaborar, desarrollar y evaluar cada curso escolar su **Plan de Actuación**, que recogerá el conjunto de medidas previstas para desarrollar el Plan Anual de Formación Permanente del Profesorado en su ámbito de gestión, así como el presupuesto del centro.
+c) Planificar, desarrollar, gestionar y evaluar el Plan de Actuación de su ámbito territorial, así como elaborar el presupuesto del centro.
 
-d) **Planificar, desarrollar y dinamizar actividades de formación permanente del profesorado** y de apoyo al desarrollo del currículo, otorgando especial relevancia a los programas de formación vinculados a la reflexión sobre la práctica educativa y dirigidos tanto a mejorar la competencia científica, técnica, pedagógica y didáctica del profesorado, como a capacitarlo para tomar decisiones educativas contextualizadas y basadas en criterios profesionales y éticos.
+d) Realizar, junto con los centros educativos de su zona de actuación, el diagnóstico de las necesidades formativas del profesorado y llevar a cabo, en colaboración con lo mismos, la elaboración de los Planes de Formación de centros y el diseño y desarrollo de las actividades de formación que se deriven de dicho diagnóstico, como respuesta a dichas necesidades.
 
-e) **Asesorar** a los centros docentes y al profesorado en el desarrollo de la práctica docente asociada a la realización de **procesos y proyectos de innovación e investigación educativa**.
+e) Apoyar y asesorar a los centros educativos y al profesorado de su zona de actuación, en el desarrollo y seguimiento de sus procesos de formación.
 
-f) **Promover la formación en los centros docentes** como eje fundamental de la formación permanente y base del desarrollo profesional.
+f) Promover, dinamizar, coordinar y hacer el seguimiento de los procesos de autoformación, formación en centros, equipos de trabajo y de las redes de formación del profesorado.
 
-g) Contribuir, en función de la planificación establecida en el Plan Anual de Formación, al **desarrollo de actividades de formación en red.**
+g) Promover y difundir ejemplos de buenas prácticas, de proyectos innovadores y de experiencias educativas que destaquen por su excelencia, favoreciendo el intercambio de actuaciones profesionales docentes de calidad entre profesorado y centros.
 
-h) Favorecer el desarrollo de **vías de trabajo cooperativo entre los centros** y entre el profesorado de los mismos, tanto en grupos homogéneos de nivel, materia y centro, como heterogéneos y de diferentes centros.
+h) Colaborar con otras instituciones para impulsar la formación del profesorado.
 
-i) Favorecer el **análisis, debate, intercambio y difusión de experiencias** educativas de buenas prácticas.
+i) Promover la elaboración y difusión de materiales didácticos, pedagógicos y de apoyo a la acción educativa.
 
-j) Apoyar y promover el **análisis, catalogación, elaboración y difusión de recursos didácticos** entre el profesorado.
+j) Informar y asesorar a los centros educativos y al profesorado sobre la utilización de materiales y recursos didácticos y curriculares.
 
-k) Promover actividades que contribuyan a la **vinculación con los centros educativos de su entorno y sus comunidades educativas** y a la dinamización social y cultural de su ámbito.
+k) Proporcionar al profesorado y a los centros educativos información periódica de la normativa, experiencias y avances científicos y pedagógicos.
 
-l) Planificar y desarrollar las actividades de formación permanente del profesorado de **Formación Profesional** imprescindibles para dar respuesta a las necesidades de actualización técnica de las personas y del entorno productivo.
+l) Facilitar en la medida de disponibilidad y posibilidades, diferentes recursos didácticos, materiales o bibliográficos en préstamo, así como de espacios físicos y virtuales para reuniones y encuentros entre los miembros de la comunidad educativa.
 
-m) **Cualquier otra** que el Departamento competente en materia de educación le encomiende, dentro de los ámbitos de actuación propios de los Centros de Innovación y Formación Educativa.
+m) Contribuir, en colaboración con los centros educativos y otras instituciones, a la dinamización social y cultural de su entorno y colaborar con otras instituciones y entidades en el desarrollo de la formación del profesorado.
 
-**Artículo 13 Autonomía de gestión de los Centros de Innovación y Formación Educativa.**
+n) Cooperar en la elaboración de los Planes de Mejora de los centros y realizar propuestas de formación en función de sus resultados.
 
-1\. Los Centros de Innovación y Formación Educativa tendrán **autonomía de gestión pedagógica** para el desarrollo de sus actividades.
+o) Impulsar la reflexión del profesorado en los centros educativos sobre los procesos de enseñanza y aprendizaje que desarrollan, en el marco de un enfoque educativo orientado a la adquisición y desarrollo de las competencias profesionales.
 
-2\. El Plan de Actuación de cada Centro de Innovación y Formación Educativa será elaborado por el equipo pedagógico y coordinado por su Director y deberá ser remitido al Director del Servicio Provincial correspondiente para su informe. Posteriormente será remitido a la Dirección General competente en materia de formación permanente del profesorado para su aprobación.
+p) Realizar procesos de autoevaluación y participar en evaluaciones externas que contribuyan a la mejora de sus funciones, a través de la elaboración de la Memoria del Plan de Actuación.
 
-La Inspección Educativa, con la colaboración de los asesores de formación de las Unidades de Programas Educativos, supervisarán el Plan de Actuación para comprobar su adecuación a lo establecido en las disposiciones vigentes.
+q) Mantener reuniones periódicas con el Servicio de Formación y con los Servicios Provinciales de Educación, para hacer un seguimiento de la formación del profesorado en el ámbito autonómico y coordinar el Plan de Formación del Profesorado de Aragón.
 
-3\. Asimismo, cada Centro de Innovación y Formación Educativa elaborará unas **Normas de Organización y Funcionamiento** de acuerdo con las disposiciones que se establezcan, serán revisadas por la Inspección Educativa, con la colaboración de los asesores de formación de las Unidades de Programas, y aprobadas por la Dirección General competente en materia de formación permanente del profesorado.
+r) Valorar e incentivar el desarrollo y la ejecución de actividades formativas propuestas por los centros educativos que, en consonancia con los objetivos y prioridades del Departamento competente en materia de educación no universitaria, promuevan acciones formativas que supongan la participación de los distintos miembros de la comunidad educativa, atendiendo a la disponibilidad de recursos humanos, materiales y financieros de los que se disponga.
 
-4\. **El equipo pedagógico de cada Centro de Innovación y Formación Educativa plasmará la evaluación del grado de cumplimiento de su Plan de Actuación** en una Memoria anual, coordinada por su Director, que deberá ser remitida al Director del Servicio Provincial correspondiente. La Inspección Educativa, con la colaboración de los asesores de formación de las Unidades de Programas Educativos, supervisarán la Memoria para comprobar su adecuación a lo establecido en las disposiciones vigentes.
+s) Promover a través de los medios humanos, técnicos y financieros de la Red de Formación, el surgimiento y desarrollo de las actividades intercentros, redes de centros y comunidades de aprendizaje constituidas por distintos agentes sociales del entorno vinculados a los centros educativos, con el fn de contribuir al aumento de la eficacia y la equidad de la educación.
 
-5\. Asimismo, los Centros de Innovación y Formación Educativa se someterán a **evaluaciones y auditorías de calidad** internas y, en su caso, externas, de acuerdo con los procedimientos que establezca el Departamento competente en materia de educación.
+t) Fomentar y facilitar la participación y colaboración de todos los miembros de la comunidad educativa, concediendo especial relevancia al alumnado y al profesorado e impulsando la participación de las familias y de asociaciones de madres y padres, así como promover la implicación de otros colectivos que de forma altruista, libre y voluntaria realizan actuaciones en el entorno del ámbito educativo.
 
-6\. Los resultados de las diferentes evaluaciones y auditorías serán difundidos entre los centros docentes de su ámbito de actuación, y deberán traducirse en propuestas concretas de mejora que se incorporarán al Plan de Actuación del Centro de Innovación y Formación Educativa.
+u) Aquellas otras que les atribuya el Departamento competente en materia de educación no universitaria en el ámbito de sus competencias.
 
-**Artículo 14 Órganos de gobierno
-**
-1\. Los Centros de Innovación y Formación Educativa tendrán los siguientes órganos de gobierno:
+## Artículo 4. Principios metodológicos.
 
-a) Unipersonales: el Director y el Secretario
+La actuación de los Centros de Profesorado territoriales ha de regirse por los principios que se enuncian a continuación:
 
-b) Colegiados: el equipo pedagógico
+a) Trabajo en equipo y en red. Los profesionales de los Centros de Profesorado territoriales trabajarán de forma colaborativa, entre sí y con el resto de miembros de la Red de Formación, compartiendo objetivos e información, y aprovechando eficazmente las diferentes potencialidades que se presenten. Asimismo, potenciarán el establecimiento de redes de centros educativos que trabajan y se forman en objetivos comunes o de semejante naturaleza.
 
-2\. El Departamento competente en materia de educación organizará y desarrollará procesos de formación inicial y permanente especializada para los miembros de los órganos de gobierno.
+b) Comunidad profesional de aprendizaje. Se potenciará progresivamente la participación de los docentes y profesionales de la educación y de otros ámbitos de la sociedad en determinadas acciones formativas abiertas a otros miembros de la comunidad educativa e instituciones, en aras de la consecución de un modelo de escuela abierta y participativa.
 
-**Artículo 20 El equipo pedagógico
-**
-1\. El equipo pedagógico estará **formado por todos los asesores de formación** adscritos al Centro, un representante de los equipos de orientación educativa y psicopedagógica, un orientador de un centro de Educación Secundaria, un Inspector de Educación y cuatro coordinadores de formación de los centros educativos de su ámbito territorial, siendo uno de ellos representante de los Centros Integrados de Formación Profesional. El equipo pedagógico será presidido por el Director.
+c) Mejora y formación continua. El trabajo de los profesionales de los Centros de Profesorado territoriales requiere un inherente proceso permanente de formación, de adquisición y mejora de las competencias profesionales docentes y de habilidades de gestión, comunicación, conocimiento y manejo de metodologías activas, de redes sociales, del tratamiento de las tecnologías de la información y de la comunicación y de los procesos de innovación e investigación educativa.
 
-2\. El representante de los equipos de orientación educativa y psicopedagógica y el orientador serán designados por los respectivos Directores de los Servicios Provinciales, a propuesta de la Inspección Educativa.
+d) Calidad y evaluación. Se trabajará conforme a protocolos y estándares de calidad para fomentar la mejora continua del sistema de formación. Se evaluarán los procesos de asesoramiento y gestión de la formación para la detección de necesidades y como herramienta de mejora.
 
-El Inspector será designado por el Director de la Inspección Educativa.
+## Artículo 6. Órganos de los Centros de Profesorado territoriales.
 
-Los coordinadores de formación de los centros docentes serán elegidos por el Director de Centro de Innovación y Formación, a propuesta de los asesores de formación de su ámbito. Dichos coordinadores pertenecerán al ámbito geográfico del Centro de Innovación y Formación Educativa de referencia.
+Los Centros de Profesorado territoriales tendrán los siguientes Órganos:
+a) Dirección.
+b) Secretaría.
+c) Equipo Técnico de Formación.
+d) Consejo de Centro de Profesorado territorial.
 
-3\. Serán **funciones del equipo pedagógico** las siguientes:
+## Artículo 19. Equipo Técnico de Formación y sus competencias.
 
-a) Detectar las **necesidades formativas** del profesorado de los centros de la zona.
+1. El Equipo Técnico de Formación estará formado por el director o directora del Centro de Profesorado territorial y por todos los asesores y asesoras de formación adscritos al mismo, de los que, uno de ellos desempeñará las funciones de Secretaría.
 
-b) Elaborar la **propuesta del Plan de Actuación** del Centro de Innovación y Formación Educativa, atendiendo a las líneas prioritarias establecidas por el Departamento competente en materia de educación y a las necesidades detectadas.
+2. Corresponde al Equipo Técnico de Formación las siguientes competencias:
+    a) Participar en la elaboración de propuestas formativas para la mejora de la función asesora, destacando el papel del itinerario formativo específico para este colectivo.
+    b) Elaborar el Plan de Actuación Anual del Centro de Profesorado territorial, atendiendo a las líneas estratégicas y los ejes de actuación marcados por el Plan Marco Aragonés de Formación del Profesorado vigente, a las directrices de la Dirección General competente en materia de formación del profesorado de educación no universitaria y a los planes de formación del profesorado de los centros educativos de su zona de actuación.
+    c) Diseñar, organizar y desarrollar las actividades formativas previstas en las actualizaciones del Plan de Actuación del Centro de Profesorado territorial, en función de las necesidades formativas detectadas del profesorado de los centros de la zona.
+    d) Realizar el seguimiento de las actividades formativas establecidas en el Plan de Actuación del Centro de Profesorado territorial a lo largo de cada curso escolar.
+    e) Realizar la autoevaluación del funcionamiento del Centro de Profesorado territorial, utilizando los instrumentos e indicadores establecidos por el propio centro y efectuar propuestas de mejora.
+    f) Coordinar las actuaciones de los asesores de formación en el desarrollo de su actividad en los centros educativos de su zona de actuación.
+    g) Colaborar en las evaluaciones del Centro de Profesorado territorial.
+    h) Desarrollar estrategias para la difusión de las buenas prácticas, de las iniciativas y experiencias del profesorado de su zona de actuación y para fomentar la autoformación y el trabajo colaborativo y en equipo.
+    i) Elaborar las normas de organización y funcionamiento internas de cada Centro de Profesorado territorial.
+    j) Aquellas otras que les atribuya el Departamento competente en materia de educación no universitaria en el ámbito de sus competencias.
 
-c) Elaborar estrategias y coordinar orientaciones y criterios metodológicos para las actuaciones de formación.
+3. El Equipo Técnico de Formación realizará reuniones periódicas con el fin de coordinarse y organizar las actuaciones del Centro de Profesorado territorial. De cada reunión se levantará acta en la que se reflejará un resumen de los temas tratados, así como de los acuerdos adoptados. Dichas actas se recogerán en un libro custodiado por la persona que ejerza la secretaría, pudiendo registrarse en papel o en formato digital.
 
-d) Elaborar las **normas de organización y funcionamiento del Centro.**
+4. Asimismo y con el objetivo de promover el trabajo en equipo y en red, las direcciones de los Centros de Profesorado territoriales, con el apoyo de la Dirección General competente en materia de formación del profesorado de educación no universitaria y de los Servicios Provinciales de educación no universitaria de Educación, promoverán el trabajo colaborativo entre distintos Equipos Técnicos de Formación compartiendo objetivos e información y aprovechando eficazmente las diferentes potencialidades que se presenten. Asimismo, potenciarán el establecimiento de redes de centros que trabajan y se forman en objetivos comunes o de semejante naturaleza.
 
-e) Impulsar la** participación del profesorado y los centros** docentes en las actuaciones del Centro de Innovación y Formación Educativa.
 
-f) **Cualquiera otra** función que le sea atribuida por la normativa vigente y las normas de organización y funcionamiento del Centro.
 
-4\. Para el desarrollo de estas funciones el equipo pedagógico mantendrá reuniones periódicas, **al menos, una vez al trimestre.**
 
 
-
-**A todo esto que aparece en el [Decreto 105/2013](https://www.google.com/url?q=http://www.educaragon.org/Files/Files/UserFiles/File/DECRETO%2520Form%2520Prof_BOA%252025-6-2013.pdf&sa=D&ust=1513765383297000&usg=AFQjCNHweYUfor26k-VXA1K2SdMnZFlGWQ), hay que añadirle lo que aparece en  [ORDEN de 18 de julio de 2014](https://www.google.com/url?q=http://www.educaragon.org/Files/Files/UserFiles/File/Formacion%2520profesorado/publicar_Orden_Funcionamiento_CIFES.pdf&sa=D&ust=1513765383306000&usg=AFQjCNFiSv2kVFDgWbIF87KOha9Nwcak_Q)
-**
-**Artículo 10\. Equipo Pedagógico.
-**
-1\. Además de las establecidas, en el Decreto 105/2013, de 11 de junio, será función del Equipo Pedagógico **aprobar la cuenta de gestión del CIFE.**
-
-2\. Al menos una de las reuniones del Equipo Pedagógico durante un curso escolar tendrá como objeto la **aprobación de las actividades de formación.**
-
-3\. Será objeto de al menos una de las reuniones del Equipo Pedagógico, aprobar la cuenta de gestión y el plan de actuación, una vez incorporadas al mismo las modificaciones propuestas por este órgano.
-
-4\. En cuanto a los representantes de los Centros Integrados de Formación Profesional en los Equipos Pedagógicos de los CIFE, tan sólo serán necesarios si sus planes de formación son asesorados desde los propios CIFE.
-
-**Artículo 11\. Normas de Organización y Funcionamiento.
-**
-1\. Cada CIFE deberá **elaborar sus propias Normas de Organización y Funcionamiento** como se recoge en el artículo 13.3 del Decreto 105/2013, de 11 de junio, y harán referencia como mínimo a los siguientes aspectos:
-
-a) Organización y funcionamiento: estrategias y recursos de coordinación de las unidades de formación, asignación de tareas y responsabilidades (reparto de funciones y tareas, horario del personal del CIFE con el número de horas de dedicación a la docencia, el número y función de actividades de atención a centros a su cargo, etc).
-
-b) Estructura organizativa del Equipo Pedagógico.
-
-c) Criterios para el reparto de responsabilidades y tareas entre los asesores.
-
-d) Criterios para la elaboración de horarios.
-
-e) Planteamientos básicos para responder a las necesidades de atención de los centros educativos.
-
-f) Coordinación entre los diferentes órganos.
-
-g) Normas internas de funcionamiento de los diferentes órganos de gobierno.
-
-h) Criterios sobre elaboración, difusión y préstamo de materiales.
-
-i) Mecanismos de colaboración con otros CIFE y con otras instituciones educativas o culturales.
-
-2\. La elaboración de horarios de los asesores se realizará siguiendo, con carácter general, las indicaciones establecidas en la orden correspondiente que regule la organización y el funcionamiento de los centros públicos no universitarios dependientes del Departamento de Educación, Universidad, Cultura y Deporte de la Administración de la Comunidad Autónoma de Aragón y según los criterios establecidos en las Instrucciones de principio de curso dictadas para los CIFE.
-
-3\. El horario será de 37´5 horas semanales, debiendo dedicarse al menos treinta a la atención directa al CIFE o centros educativos. El resto hasta completar la jornada se computarán anualmente y se dedicarán a otras tareas referidas a las funciones propias de su puesto.
-
-4\. Los horarios deberán responder a la adecuada atención al profesorado y centros educativos de su ámbito de actuación, serán públicos y estarán disponibles para su consulta por parte de los Coordinadores de Formación de los centros.
-
-5\. El personal no docente, tanto funcionario como laboral, deberá realizar la jornada de trabajo con arreglo a su régimen jurídico de personal aplicable. En atención a circunstancias excepcionales, la Dirección del CIFE podrá solicitar por razones del servicio la modificación o adecuación del horario del personal no docente al Servicio de Personal de Administración y Servicio.
-
-6\. Estas normas serán revisadas con una periodicidad de dos cursos escolares. Para la revisión periódica, se deberá contar con los resultados de las evaluaciones internas y externas realizadas. Estas incluirán como mínimo la autoevaluación, las auditorias de calidad pertinentes si las hubiere, las evaluaciones internas promovidas por el Departamento y las realizadas desde la Inspección Educativa.
-
-7\. En caso de producirse modificaciones de las normas aprobadas antes del periodo de revisión, deberán comunicarse con la suficiente antelación a la Inspección Educativa del Servicio Provincial correspondiente para su informe y posterior aprobación por parte de la Dirección General competente en materia de formación del profesorado.
+## Artículo 45. Normas de Organización y Funcionamiento internas de cada Centro de Profesorado territorial.
+
+1.Cada Centro de Profesorado territorial podrá elaborar sus normas internas de organización y funcionamiento, que se integrarán dentro del Proyecto de centro, con estructura y entidad propia.
+
+2.Las normas de organización y funcionamiento de los Centros de Profesorado territoriales deberán diseñarse de acuerdo a la siguiente estructura:
+
+    1. Datos de contacto del Centro de Profesorado territorial: información de la página web,
+cómo llegar al centro, mapa.
+    2. Marco normativo.
+    3. Organización y funcionamiento.
+    
+        3.1. Descripción geográfca.
+        3.2. Plantilla y organigrama.
+        3.3. Horarios.
+            - General.
+            - Dirección y asesorías.
+            - Administración y servicios.
+            - Otro personal (si lo hubiera).
+            
+    3.4. Asignación de tareas.
+            - Criterios para el reparto.
+            - Número de centros por asesoría.
+            - Estrategias y recursos de coordinación entre los Equipos Territoriales de Formación del Profesorado y con el Centro de Profesorado territorial.
+
+    3.5. Sistema de Gestión de Calidad común.
+    3.6. Gestión de Redes sociales.
+    3.7. Funciones de la persona asesora de guardia.
+    3.8. Organización y reserva de los espacios de los Centros de Profesorado territoriales.    
+4. Estructura organizativa del Consejo de Centro de Profesorado territorial: convocatorias de reunión de este órgano, horarios, etc.
+5. Planteamientos básicos para atender por parte del Equipo Técnico de Formación las
+necesidades que surjan de la atención a los centros estableciendo las tareas a realizar.
+6. Coordinación y normas internas entre los distintos Órganos del Centro de Profesorado
+territorial.
+7. Criterios para la elaboración, difusión y préstamo de materiales.
+8. Colaboración con otros Centros de Profesorado territoriales y otras instituciones educativas.
+
+3.Estas normas serán revisadas con una periodicidad máxima de cuatro cursos académicos. Para la revisión periódica, se deberá contar con los resultados de las evaluaciones
+internas y externas realizadas. Estas incluirán como mínimo, una autoevaluación, las auditorias de calidad pertinentes si las hubiera, las evaluaciones internas promovidas por el Departamento competente en materia de educación no universitaria y las realizadas desde la Inspección Educativa.
+
+4.En caso de producirse modificaciones de las normas aprobadas antes del periodo de
+revisión, deberán comunicarse con la suficiente antelación a la Inspección Educativa del Servicio Provincial de Educación correspondiente para su informe y posterior aprobación por parte de la Dirección General competente en materia de formación del profesorado de educación no universitaria.
