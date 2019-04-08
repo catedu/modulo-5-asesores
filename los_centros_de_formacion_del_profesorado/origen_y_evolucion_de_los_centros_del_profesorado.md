@@ -91,7 +91,7 @@ También se aprovechó para crear muchas extensiones en CPRs independientes. En 
 
 En esta etapa se crea la formación online en **Aularagon**, gestionada al principio por los Asesores TIC de cada CPR.
 
-## CUARTA ETAPA 2013-2016
+## CUARTA ETAPA 2013-2018
 Se cambia de esquema de los CPRs a CIFEs ([BOA 20/11/2013](https://www.google.com/url?q=http://www.boa.aragon.es/cgi-bin/BRSCGI?CMD%3DVEROBJ%26MLKOB%3D766307563535&sa=D&ust=1513765383318000&usg=AFQjCNFUTFfeL3impnfuvTjXNOrMGwnmSQ))  creando los siguientes CIFEs territoriales con sus correspondientes UFIs y se añaden dos específicos a la red:
 
 *   CIFE ANA ABARCA DE BOLEA - HUESCA
@@ -101,9 +101,7 @@ Se cambia de esquema de los CPRs a CIFEs ([BOA 20/11/2013](https://www.google.co
 *   CATEDU
 *   CAREI
 
-## ETAPA ACTUAL
-
-En el 2016 se crean otros 3 cifes y se incorporan otros específicos a la red de formación:
+Posteriormente, a partir del 2016, se invierte la tendencia, se crean otros 3 cifes y se incorporan otros centros específicos a la red de formación:
 
 *   CIFE SABIÑANIGO
 *   CIFE EJEA DE LOS CABALLEROS
@@ -111,6 +109,11 @@ En el 2016 se crean otros 3 cifes y se incorporan otros específicos a la red de
 *   CIFPA
 *   CARLEE
 
-En la etapa actual hay un proceso de renovación y de creación de nuevos centros, esto lo has visto en [Tipos de centros de formación del profesorado.](/los_centros_de_formacion_del_profesorado/tipos_de_centros_de_formacion_del_profesorado.md)
+## ETAPA ACTUAL
+
+Actualmente los centros reciben el nombre de Centros del profesorado.
+
+A inicios este curso 2018-2019 se crearon dos nuevos centros, en La Almunia y en Monzón.
+
 
 Recomendaciones: [Monográfico 35 A 3 bandas sobre formación del profesorado.](https://www.google.com/url?q=http://atresbandas.ftp.catedu.es/monograficos/Numero_M35.pdf&sa=D&ust=1513765383319000&usg=AFQjCNFUNC-NsYVXoFW3U07aylJBR0oW4A)

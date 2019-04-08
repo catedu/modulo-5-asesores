@@ -100,9 +100,6 @@ d) Consejo de Centro de Profesorado territorial.
 4. Asimismo y con el objetivo de promover el trabajo en equipo y en red, las direcciones de los Centros de Profesorado territoriales, con el apoyo de la Dirección General competente en materia de formación del profesorado de educación no universitaria y de los Servicios Provinciales de educación no universitaria de Educación, promoverán el trabajo colaborativo entre distintos Equipos Técnicos de Formación compartiendo objetivos e información y aprovechando eficazmente las diferentes potencialidades que se presenten. Asimismo, potenciarán el establecimiento de redes de centros que trabajan y se forman en objetivos comunes o de semejante naturaleza.
 
 
-
-
-
 ## Artículo 45. Normas de Organización y Funcionamiento internas de cada Centro de Profesorado territorial.
 
 1.Cada Centro de Profesorado territorial podrá elaborar sus normas internas de organización y funcionamiento, que se integrarán dentro del Proyecto de centro, con estructura y entidad propia.
@@ -114,7 +111,7 @@ cómo llegar al centro, mapa.
     2. Marco normativo.
     3. Organización y funcionamiento.
     
-        3.1. Descripción geográfca.
+        3.1. Descripción geográfica.
         3.2. Plantilla y organigrama.
         3.3. Horarios.
             - General.
