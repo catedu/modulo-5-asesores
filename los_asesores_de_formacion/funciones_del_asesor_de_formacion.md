@@ -1,42 +1,56 @@
 ## Funciones del asesor de formación. {#funciones-del-asesor-de-formaci-n}
 
-Las características y las funciones de los asesores de formación vienen descritas en los artículos 21 y 22 del Decreto 105/2013:
+Las características y las funciones de los asesores de formación vienen descritas en la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](https://bit.ly/2TZii4q)
 
-**Artículo 21\. Los asesores de formación.
-**
-1\. Los Centros de Innovación y Formación Educativa dispondrán de una plantilla de asesores de formación adecuada al número de centros docentes y profesorado de su ámbito de actuación, así como a las funciones específicas que tengan encomendadas.
+## Artículo 20. Asesorías de Formación.
 
-2\. **Podrá acceder a la asesoría de formación cualquier funcionario docente en servicio activo, que tenga una antigüedad mínima de un año** como funcionario de carrera en alguno de los cuerpos de la función pública docente y cumpla con los requisitos que se establezcan en las correspondientes convocatorias.
+Los asesores y asesoras de formación son profesionales docentes que, formando parte de un Equipo Técnico de Formación de un Centro de Profesorado territorial donde desempeñan sus funciones, y en estrecha colaboración con el profesorado impulsor de la formación en los centros educativos, promueve y facilita la gestión de los procesos formativos en los mismos.
 
-3\. Los asesores de formación serán** nombrados en comisión de servicios** por el órgano correspondiente del Departamento competente en materia de educación, previa convocatoria de concurso público de méritos. Los requisitos de participación, condiciones de permanencia, y cese se determinarán por orden del Consejero competente en materia de educación.
+## Artículo 21. Competencias de las Asesorías de Formación.
 
-4\. Los asesores de formación tendrán su sede de trabajo en las dependencias de los Centros de Innovación y Formación Educativa o en los centros docentes en los que se sitúe cualquiera de las Unidades de Formación e Innovación adscritas a ellos.
+Las asesorías de formación tendrán las siguientes competencias:
 
-**Artículo 22\. Funciones de los asesores de formación.
-**
-Los asesores de formación tendrán las siguientes funciones:
+a) Participar en la elaboración, desarrollo, gestión y evaluación del Plan de Actuación del Centro de Profesorado territorial.
 
-a) **Participar** en la elaboración, desarrollo, gestión y evaluación del **Plan de Actuación **del Centro de Innovación y Formación Educativa, detectando las necesidades formativas y teniendo en cuenta las líneas prioritarias establecidas por el Departamento competente en materia de educación.
+b) Facilitar un proceso participativo en la detección de necesidades, en el que se integren a los distintos agentes educativos: comunidad educativa del centro, Inspección, coordinador de formación, coordinador de formación para el uso de las tecnologías en el aprendizaje en los centros educativos y asesorías de formación.
 
-b) **Asesorar e impulsar los proyectos de formación de Centro** que le sean encomendados, apoyar en su labor a los coordinadores de formación, en colaboración con los equipos directivos, los equipos de orientación educativa y psicopedagógica y la Inspección Educativa, promoviendo acciones que favorezcan la relexión sobre la práctica docente, motiven la innovación en el aula, estimulen la autonomía profesional y favorezcan el trabajo en equipo.
+c) Colaborar en la elaboración, seguimiento, actualización y aplicación de los planes de formación de los centros educativos de la zona de actuación de su Centro de Profesorado territorial, en colaboración con los coordinadores de formación.
 
-c) **Apoyar el desarrollo del currículo** en los centros educativos, potenciando la incorporación de las metodologías más adecuadas para la adquisición de las competencias básicas a través de todas las áreas y materias, e impulsando la participación del profesorado en la planificación de la formación.
+d) Asesorar en el seguimiento, supervisar las sesiones y colaborar en la evaluación de los grupos de trabajo, de los seminarios intercentros y de otras acciones formativas.
 
-d) **Desarrollar los Programas que se determinen desde el Departamento** competente en materia de educación impartiendo docencia, tanto en el propio Centro de Innovación y Formación Educativa, como en los centros docentes.
+e) Plantear estrategias y orientaciones que permitan al profesorado analizar su propia práctica docente y el contexto educativo del centro, con el objetivo de determinar las iniciativas de formación más adecuadas.
 
-e)** Desarrollar las actividades que le sean encomendadas** en relación al Plan Anual de Formación Permanente del profesorado, incluso aquellas que puedan tener carácter provincial o autonómico.
+f) Proporcionar al profesorado asesoramiento y recursos en aspectos relacionados con
+su práctica docente y con su actualización y desarrollo profesional.
 
-**f) Apoyar y promover tanto el análisis, elaboración y utilización reflexiva y contextualizada de materiales y de recursos didácticos, como su difusión.
-**
+g) Contribuir de forma activa a la elaboración del proyecto de formación del centro y participar en cuantas acciones formativas estén relacionadas con las competencias transversales propias de la asesoría de formación estableciendo y desarrollando la metodología para el seguimiento de las mismas.
 
-g) **Impartir docencia en los cursos y otras modalidades formativas** que corresponda y realizar la función de tutor en las actividades a distancia que le sean asignadas.
+h) Proponer al Equipo Técnico de formación del Centro de Profesorado territorial actuaciones formativas que se deriven de la implementación de los planes de formación de los centros de su zona de actuación y de la concreción anual de las líneas prioritarias del Plan Marco Aragonés de Formación del Profesorado vigente.
 
-h) **Colaborar con el resto de asesores de formación para mejorar la formación propia** y participar en todos aquellos planes que a este respecto establezca el Departamento competente en materia de educación, así como favorecer el desarrollo del Plan Anual de Formación.
+i) Impulsar, dinamizar y apoyar el desarrollo de redes de formación, facilitando espacios físicos y virtuales para el trabajo colaborativo del profesorado.
 
-i) **Colaborar en la gestión administrativa y en cuantas otras tareas generales del CIFE** se les encomienden para el buen funcionamiento del mismo.
+j) Tutorizar al profesorado que curse el itinerario formativo de asesores de formación o coordinadores de formación en la elaboración del Trabajo Fin de Itinerario.
 
-j) **Asumir la Secretaría del CIFE cuando fuesen propuestos para ello**.
+k) Detectar e impulsar actuaciones que promuevan la investigación, experiencias pedagógicas innovadoras y, en su caso, la elaboración de materiales y recursos, así como la difusión de los mismos.
 
-k) Participar y colaborar en los **procesos de auditoría y evaluación** que se establezcan.
+l) Promover que el profesorado que lidera experiencias pedagógicas innovadoras participe activamente en la difusión de las mismas como colaborador del Centro de Profesorado territorial, a través de las redes sociales y espacios web de formación. 
 
-l) **Cualquier otra** que el Departamento competente en materia de Educación le encomiende dentro de los ámbitos de actuación propios de los CIFE.
+m) Favorecer y difundir el uso y aplicación práctica de las tecnologías del aprendizaje y el conocimiento en el ámbito educativo.
+
+n) Difundir y promover entre el profesorado los recursos pedagógicos del Centro de Profesorado territorial.
+
+o) Impartir formación especializada que ofrezca respuesta a las necesidades de la comunidad educativa en todo el territorio de la Comunidad Autónoma de Aragón.
+
+p) Diseñar y desarrollar la oferta de formación on line.
+
+q) Seleccionar y adaptar contenidos para entornos educativos digitales.
+
+r) Asumir la Secretaría del centro cuando fueran propuestos para ello.
+
+s) Sustituir a la Secretaría en caso de vacante, ausencia o enfermedad. Mientras dure
+este supuesto, la Secretaría de los órganos colegiados será ejercida transitoriamente
+por el asesor o asesora más antiguo en el centro. En caso de que existan varias personas con la misma antigüedad en el centro, la Secretaría de los órganos colegiados
+será ejercida por el asesor o asesora de mayor antigüedad en el cuerpo.
+
+t) Aquellas otras que les atribuya el Departamento competente en materia de educación
+no universitaria en el ámbito de sus competencias.

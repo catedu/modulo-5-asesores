@@ -74,9 +74,13 @@ d) Calidad y evaluación. Se trabajará conforme a protocolos y estándares de c
 ## Artículo 6. Órganos de los Centros de Profesorado territoriales.
 
 Los Centros de Profesorado territoriales tendrán los siguientes Órganos:
+
 a) Dirección.
+
 b) Secretaría.
+
 c) Equipo Técnico de Formación.
+
 d) Consejo de Centro de Profesorado territorial.
 
 ## Artículo 19. Equipo Técnico de Formación y sus competencias.
