@@ -20,8 +20,7 @@ d) Asesorar en el seguimiento, supervisar las sesiones y colaborar en la evaluac
 
 e) Plantear estrategias y orientaciones que permitan al profesorado analizar su propia práctica docente y el contexto educativo del centro, con el objetivo de determinar las iniciativas de formación más adecuadas.
 
-f) Proporcionar al profesorado asesoramiento y recursos en aspectos relacionados con
-su práctica docente y con su actualización y desarrollo profesional.
+f) Proporcionar al profesorado asesoramiento y recursos en aspectos relacionados con su práctica docente y con su actualización y desarrollo profesional.
 
 g) Contribuir de forma activa a la elaboración del proyecto de formación del centro y participar en cuantas acciones formativas estén relacionadas con las competencias transversales propias de la asesoría de formación estableciendo y desarrollando la metodología para el seguimiento de las mismas.
 
@@ -47,10 +46,7 @@ q) Seleccionar y adaptar contenidos para entornos educativos digitales.
 
 r) Asumir la Secretaría del centro cuando fueran propuestos para ello.
 
-s) Sustituir a la Secretaría en caso de vacante, ausencia o enfermedad. Mientras dure
-este supuesto, la Secretaría de los órganos colegiados será ejercida transitoriamente
-por el asesor o asesora más antiguo en el centro. En caso de que existan varias personas con la misma antigüedad en el centro, la Secretaría de los órganos colegiados
-será ejercida por el asesor o asesora de mayor antigüedad en el cuerpo.
+s) Sustituir a la Secretaría en caso de vacante, ausencia o enfermedad. Mientras dure este supuesto, la Secretaría de los órganos colegiados será ejercida transitoriamente
+por el asesor o asesora más antiguo en el centro. En caso de que existan varias personas con la misma antigüedad en el centro, la Secretaría de los órganos colegiados será ejercida por el asesor o asesora de mayor antigüedad en el cuerpo.
 
-t) Aquellas otras que les atribuya el Departamento competente en materia de educación
-no universitaria en el ámbito de sus competencias.
+t) Aquellas otras que les atribuya el Departamento competente en materia de educación no universitaria en el ámbito de sus competencias.
