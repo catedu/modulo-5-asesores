@@ -4,7 +4,7 @@ Los tipos de Centros del Profesorado vienen enumerados en el decreto citado en e
 
 ## Los Centros de Profesorado territoriales y sus secciones
 
-Los Centros de Profesorado territoriales y sus secciones, los Equipos territoriales son los centros repartidos por la geografía aragonesa para llevar a cabo atención directa a los centros y sus docentes. Su ámbito de gestión está delimitado a los centros que atienden directamente. Los Los Centros de Profesorado los integra un equipo pedagógico formado por la persona que lo dirige, asesores que actúan en un mismo Los Centros de Profesorado ocupando asesorías y asesorías que actúan individualmente en un ámbito territorial asignado (Equipo territorial). 
+Los Centros de Profesorado territoriales y sus secciones, los Equipos territoriales son los centros repartidos por la geografía aragonesa para llevar a cabo atención directa a los centros y sus docentes. Su ámbito de gestión está delimitado a los centros que atienden directamente. Los Centros de Profesorado los integra un equipo pedagógico formado por la persona que lo dirige, asesores que actúan en un mismo. Los Centros de Profesorado ocupando asesorías y asesorías que actúan individualmente en un ámbito territorial asignado (Equipo territorial). 
 
 En la actualidad [estos son los CP territoriales](https://bit.ly/2MXhon2) y los equipos territoriales que dependen de ellos:
 
