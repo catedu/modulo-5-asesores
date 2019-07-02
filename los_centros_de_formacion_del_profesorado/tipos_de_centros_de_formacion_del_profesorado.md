@@ -13,7 +13,7 @@ fondos públicos de la Comunidad Autónoma de Aragón.
     - Las Comisiones Provinciales de Formación del Profesorado.
     - Las Asesorías de Formación de las Unidades de Programas Educativos de los Servicios
 Provinciales.
-    - Los Centros de Profesorado territoriales y sus secciones, dedicadas a funciones específcas de formación y los Centros de Profesorado específcos de formación del profesorado.
+    - Los Centros de Profesorado territoriales y sus secciones, dedicadas a funciones específcas de formación y los Centros de Profesorado específicos de formación del profesorado.
     - Los centros educativos, a través de los Planes de Formación de Centro y de las personas impulsoras de la formación: el coordinador de formación y el coordinador de formación para el uso de las tecnologías en el aprendizaje de los centros educativos.
     - Las Administraciones, Universidades y las entidades colaboradoras con la Administración Educativa en materia de formación del profesorado, mediante los acuerdos de colaboración o convenios que se establezcan conforme a la normativa vigente.
     - Aquellos otros órganos y entidades que se determinen por el Departamento de Educación, Cultura y Deporte cuando se estime necesario, para conseguir la mejora de la formación del profesorado
