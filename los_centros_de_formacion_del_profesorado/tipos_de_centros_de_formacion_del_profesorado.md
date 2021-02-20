@@ -2,7 +2,7 @@
 
 
 
-El [DECRETO 166/2018, de 18 de septiembre, del Gobierno de Aragón, por el que se regula la formación del profesorado de enseñanzas no universitarias que presta sus servicios en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Aragón.](https://bit.ly/2SgTskC) dice en su artículo 8:
+El [DECRETO 166/2018, de 18 de septiembre, del Gobierno de Aragón, por el que se regula la formación del profesorado de enseñanzas no universitarias que presta sus servicios en centros docentes sostenidos con fondos públicos en la Comunidad Autónoma de Aragón.](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1040620063232) dice en su artículo 8:
 
 1. La Red de Formación del Profesorado se integra por aquellos órganos y entidades que
 participan en la planificación, ejecución y evaluación de la formación del profesorado de enseñanzas no universitarias que presta sus servicios en centros docentes sostenidos con
