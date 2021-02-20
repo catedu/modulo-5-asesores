@@ -1,6 +1,6 @@
-## Funciones del asesor de formación. {#funciones-del-asesor-de-formaci-n}
+## Funciones de las Asesorías de Formación. {#funciones-del-asesor-de-formaci-n}
 
-Las características y las funciones de los asesores de formación vienen descritas en la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](https://bit.ly/2TZii4q)
+Las características y las funciones de los asesores y asesoras de formación vienen descritas en la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1064002023939)
 
 ## Artículo 20. Asesorías de Formación.
 
