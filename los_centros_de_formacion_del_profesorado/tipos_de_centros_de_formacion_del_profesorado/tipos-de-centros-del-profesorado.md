@@ -34,13 +34,13 @@ El artículo 21 de la mencionada ORDEN ECD/204/2019 recoge las competencias de l
 
 Son centros de ámbito autonómico con un cometido concreto.
 
-* Centro Aragonés de Tecnologías para la Educación. ([CATEDU](https://www.google.com/url?q=http://web.catedu.es/webcatedu/&sa=D&ust=1513765383294000&usg=AFQjCNELOikt_I7J2j9pXzRJdEcIjVFv2w)). Su cometido es dar soporte y asesoramiento tecnológico a la red de formación. Es el centro que organiza la formación online ([Aularagón](https://moodle.catedu.es/my/)) y otros servicios de soporte al profesorado, como aramoodle, wordpress…
+* Centro Aragonés de Tecnologías para la Educación. ([CATEDU](https://www.google.com/url?q=http://web.catedu.es/webcatedu/&sa=D&ust=1513765383294000&usg=AFQjCNELOikt_I7J2j9pXzRJdEcIjVFv2w)). Su cometido es dar soporte y asesoramiento tecnológico a la red de formación. Es el centro que organiza la formación online ([Aularagón](https://moodle.catedu.es/my/)) y otros servicios de soporte al profesorado, como Vitalinux, Aramoodle, Wordpress, DOCEO, Aeducar…
 
 ![](/images/image8.png)
 
 * Centro de Innovación para la Formación Profesional de Aragón ([CIFPA](https://www.google.com/url?q=http://cifpa.aragon.es/joomla1/&sa=D&ust=1513765383295000&usg=AFQjCNGx0Ppp-AUECLtmlfmW_3V-8f69NA)). Entre otros cometidos se vincula a la red de formación del profesorado para atender a los Centros Integrados de Formación Profesional y al profesorado de Formación Profesional de todo Aragón.
 
-{% youtube %}https://www.youtube.com/watch?v=fxciDt-jp1Q{% endyoutube %}
+{% youtube %}https://youtu.be/FA0hI2XSxPo{% endyoutube %}
 
 * Centro Aragonés de Lenguas Extranjeras para la Educación.([CARLEE](https://www.google.com/url?q=https://centrolenguasaragon.wordpress.com/&sa=D&ust=1513765383296000&usg=AFQjCNGO00qC9THaeu0OU_WIrW7McDfaWA)). Su cometido es la formación en competencia y metodologías que capaciten al profesorado para poder impartir programas bilingües en francés e inglés. También se ocupan de la formación del profesorado de inglés en toda la enseñanza no universitaria de Aragón.
 
