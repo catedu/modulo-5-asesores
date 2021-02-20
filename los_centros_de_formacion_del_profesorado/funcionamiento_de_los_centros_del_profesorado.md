@@ -1,6 +1,6 @@
 # Funcionamiento de los centros del profesorado {#funcionamiento-de-los-centros-del-profesorado}
 
-El funcionamiento de los centros de formación del profesorado está regulado por la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](https://bit.ly/2TZii4q)
+El funcionamiento de los centros de formación del profesorado está regulado por la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1064002023939)
 
 Los artículos que describen el funcionamiento de los Centros del Profesorado son:
 
