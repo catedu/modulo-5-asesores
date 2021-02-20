@@ -113,7 +113,7 @@ Posteriormente, a partir del 2016, se invierte la tendencia, se crean otros 3 ci
 
 Actualmente los centros reciben el nombre de Centros del profesorado.
 
-A inicios este curso 2018-2019 se crearon dos nuevos centros, en La Almunia y en Monzón.
+A inicios del curso 2018-2019 se crearon dos nuevos centros, en La Almunia y en Monzón.
 
 
 Recomendaciones: [Monográfico 35 A 3 bandas sobre formación del profesorado.](https://www.google.com/url?q=http://atresbandas.ftp.catedu.es/monograficos/Numero_M35.pdf&sa=D&ust=1513765383319000&usg=AFQjCNFUNC-NsYVXoFW3U07aylJBR0oW4A)
