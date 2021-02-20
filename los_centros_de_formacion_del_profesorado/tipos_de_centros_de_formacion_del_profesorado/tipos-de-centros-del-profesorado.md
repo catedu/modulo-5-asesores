@@ -6,7 +6,7 @@ Los tipos de Centros del Profesorado vienen enumerados en el decreto citado en e
 
 Los Centros de Profesorado territoriales y sus secciones, los Equipos territoriales son los centros repartidos por la geografía aragonesa para llevar a cabo atención directa a los centros y sus docentes. Su ámbito de gestión está delimitado a los centros que atienden directamente. Los Centros de Profesorado los integra un equipo pedagógico formado por la persona que lo dirige, asesores que actúan en un mismo. Los Centros de Profesorado ocupando asesorías y asesorías que actúan individualmente en un ámbito territorial asignado (Equipo territorial). 
 
-En la actualidad [estos son los CP territoriales](https://bit.ly/2MXhon2) y los equipos territoriales que dependen de ellos:
+En la actualidad estos son los CP territoriales y los equipos territoriales que dependen de ellos:
 
 
 
@@ -19,13 +19,14 @@ En la actualidad [estos son los CP territoriales](https://bit.ly/2MXhon2) y los 
 | CP Ángel Sanz Briz (Teruel) | Cantavieja, Calamocha y Albarracín |
 | CP Calatayud |   |
 | CP Ejea |   |
-| CP Juan De Lanuza (Zaragoza) | Zuera y Borja-Tarazona |
-| CP María De Ávila (Zaragoza) | Cariñena y Fuentes De Ebro|
+| CP La Almunia | Cariñena y Borja-Tarazona  |
+| CP Juan De Lanuza (Zaragoza) | Zuera |
+| CP María De Ávila (Zaragoza) |  Fuentes De Ebro|
 
 
 Las plazas de asesoría y dirección se cubren en comisión de servicios entre las personas que superan un proceso de concurrencia competitiva que se convoca cada año para cubrir las vacantes que resultan. 
 
-Los Centros del profesorado se regulan por la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](https://bit.ly/2TZii4q). Atendiendo a estas órdenes se elaboran las convocatorias anuales de selección de asesores. 
+Los Centros del profesorado se regulan por la [ORDEN ECD/204/2019, de 20 de febrero, por la que se regula la organización y funcionamiento de los Centros de Profesorado territoriales en la Comunidad Autónoma de Aragón](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1064002023939). Atendiendo a estas órdenes se elaboran las convocatorias anuales de selección de asesores. 
 
 El artículo 21 de la mencionada ORDEN ECD/204/2019 recoge las competencias de los asesores. 
 
@@ -46,6 +47,3 @@ Son centros de ámbito autonómico con un cometido concreto.
 {% youtube %}https://www.youtube.com/watch?v=pyTrjLepb6A{% endyoutube %}
 
 Video de presentación del CARLEE
-
-
-* Centro Aragonés de Formación para el Profesorado de Enseñanzas Artísticas (CAREA). Es el más incipiente de los proyectos y se ocupa de atender las necesidades formativas del profesorado de enseñanzas artísticas.
