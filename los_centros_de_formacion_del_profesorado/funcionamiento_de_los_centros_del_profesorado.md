@@ -12,7 +12,7 @@ Los artículos que describen el funcionamiento de los Centros del Profesorado so
    educativos y su profesorado en materia de formación, tanto en la detección de necesidades como en la gestión y realización de actividades formativas, desempeñando funciones de asesoramiento en el desarrollo profesional y curricular, en la implantación de programas educativos, en la promoción de la innovación, investigación e intercambio de experiencias y en la apertura al entorno, comunicación y relaciones con la comunidad educativa.
 
 3. Los Centros de Profesorado territoriales podrán tener adscritos uno o varios Equipos  
-   Territoriales de Formación del Profesorado, con la fnalidad de contribuir a la vertebración del territorio aragonés.
+   Territoriales de Formación del Profesorado, con la finalidad de contribuir a la vertebración del territorio aragonés.
 
 ## Artículo 3. Competencias de los Centros de Profesorado territoriales.
 
@@ -54,7 +54,7 @@ q\) Mantener reuniones periódicas con el Servicio de Formación y con los Servi
 
 r\) Valorar e incentivar el desarrollo y la ejecución de actividades formativas propuestas por los centros educativos que, en consonancia con los objetivos y prioridades del Departamento competente en materia de educación no universitaria, promuevan acciones formativas que supongan la participación de los distintos miembros de la comunidad educativa, atendiendo a la disponibilidad de recursos humanos, materiales y financieros de los que se disponga.
 
-s\) Promover a través de los medios humanos, técnicos y financieros de la Red de Formación, el surgimiento y desarrollo de las actividades intercentros, redes de centros y comunidades de aprendizaje constituidas por distintos agentes sociales del entorno vinculados a los centros educativos, con el fn de contribuir al aumento de la eficacia y la equidad de la educación.
+s\) Promover a través de los medios humanos, técnicos y financieros de la Red de Formación, el surgimiento y desarrollo de las actividades intercentros, redes de centros y comunidades de aprendizaje constituidas por distintos agentes sociales del entorno vinculados a los centros educativos, con el fin de contribuir al aumento de la eficacia y la equidad de la educación.
 
 t\) Fomentar y facilitar la participación y colaboración de todos los miembros de la comunidad educativa, concediendo especial relevancia al alumnado y al profesorado e impulsando la participación de las familias y de asociaciones de madres y padres, así como promover la implicación de otros colectivos que de forma altruista, libre y voluntaria realizan actuaciones en el entorno del ámbito educativo.
 
@@ -180,7 +180,7 @@ vigente.
 5. Todas las modificaciones sustanciales sobre el Plan de Actuación inicialmente aprobado deberán comunicarse con la suficiente antelación al Servicio Provincial de Educación correspondiente para su informe y posterior aprobación por parte de la Dirección General competente en materia de formación del profesorado de educación no universitaria.
 6. Se considerarán modificaciones sustanciales todas las que afecten a:
   
-    a) Objetivos del Centro de Profesorado territorial para el curso.
+   a) Objetivos del Centro de Profesorado territorial para el curso.
    b) Planificación para la ejecución del último plan de mejora redactado.
    c) Mecanismos de coordinación institucional con Inspección, EOEIP, otros Centros de Profesorado territoriales, etc.
    d) Colaboración con otros organismos o entidades.
